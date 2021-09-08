@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 h3{
     color: indigo;
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    
 }
 body{
     color: #2C4843;
