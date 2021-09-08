@@ -59,3 +59,6 @@ ul{
     padding: 0.5rem 1rem;
 }
 
+.Nobulet{
+    list-style: none;
+}
