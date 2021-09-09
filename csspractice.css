@@ -62,3 +62,7 @@ ul{
 .Nobulet{
     list-style: none;
 }
+
+.navigation{
+    color: lavender;
+}
