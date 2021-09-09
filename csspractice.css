@@ -65,4 +65,20 @@ ul{
 
 .navigation{
     color: lavender;
+    background-color: var(--primary-color);
+}
+
+.inline{
+    display: inline;
+    padding: 2rem 2rem;
+    text-decoration: none;
+}
+
+.navigation .Link{
+    text-align: justify;
+    text-decoration: none;
+    color: honeydew;
+    background-color: black;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
 }
