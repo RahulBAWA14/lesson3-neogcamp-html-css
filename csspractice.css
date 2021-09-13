@@ -66,6 +66,7 @@ ul{
 .navigation{
     color: lavender;
     background-color: var(--primary-color);
+    text-align: right;
 }
 
 .inline{
@@ -75,7 +76,7 @@ ul{
 }
 
 .navigation .Link{
-    text-align: justify;
+    /* text-align: justify; */
     text-decoration: none;
     color: honeydew;
     background-color: black;
